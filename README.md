@@ -2,12 +2,12 @@
 This lab simulates a basic MIPS processor.
 
 
-### Initial instructions
+## Initial instructions
 1. Download the mips processor file and the example instructions files.
 2. Run the mips processor program.
 
 
-### User Interface
+## User Interface
 | Commands        | Function                                                      |
 |:---------------:| ------------------------------------------------------------- |
 | regs            | Dump all registers in hexadecimal                             |
@@ -18,6 +18,6 @@ This lab simulates a basic MIPS processor.
 | quit            | Quit the program                                              |
 
 
-### Registers Format
+## Registers Format
 ![alt text](https://github.com/VaughanEric/Story/raw/master/Registers.png "MIPS Registers")
 The program counter (PC), which points to the next instruction to be called, is also included at the bottom.
